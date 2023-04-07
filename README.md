@@ -1,4 +1,11 @@
-# ChatGPT "DAN" (and other "Jailbreaks")
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title># ChatGPT "DAN" (and other "Jailbreaks")
+</title>
+  </head>
+  <body>
+	  # ChatGPT "DAN" (and other "Jailbreaks")
 - <b>Note. So far, these things working well for prompts on the GPT-4 model. (03/15/2023)
 - <b>We are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT.
 ---
@@ -325,3 +332,6 @@ Preview:
 ## Example after entering the "ChatGPT DevMode + Ranti PROMPT"
 ![image](https://user-images.githubusercontent.com/47383452/225237856-1be52b9a-3268-43de-b6f5-f77de6ea015d.png)
 
+
+  </body>
+</html>
